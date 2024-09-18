@@ -1,0 +1,48 @@
+body {
+    background-color:rgba(193, 11, 11, 0.893);
+    color: rgb(60, 255, 0);
+}
+a {
+    color:aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+.firstP {
+    color: yellow;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.secondP {
+    font-weight: bold;
+}
+
+.firstIMG {
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.secondIMG {
+    float: right;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.SecondSentence {
+    color:aqua;
+}
+
+button {
+    background-color: goldenrod;
+}
+
+.endA {
+    color: black;
+    font-weight: bold;
+    text-decoration: unset;
+}

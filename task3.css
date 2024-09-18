@@ -1,0 +1,14 @@
+body {
+    background-image: url("../img/IMG_3.jpg");
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #000000;
+}
