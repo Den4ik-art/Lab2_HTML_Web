@@ -1,7 +1,7 @@
 body {
     background-image: url("../img/IMG_3.jpg");
     background-position: center;
-    background-size: cover;
+    background-size: cover; /* Додано для кращого відображення фону */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,4 +12,5 @@ body {
 h1 {
     font-size: 3rem;
     color: #000000;
+    text-align: center;
 }

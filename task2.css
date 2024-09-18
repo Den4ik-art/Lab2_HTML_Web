@@ -1,11 +1,16 @@
 body {
     background-color: rgba(193, 11, 11, 0.893);
     color: rgb(60, 255, 0);
+    margin: 0;
 }
 
 a {
     color: aqua;
     text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 h1 {
@@ -43,10 +48,15 @@ button {
     background-color: goldenrod;
     border: none;
     padding: 10px;
+    border-radius: 5px;
 }
 
 .endA {
     color: black;
     font-weight: bold;
     text-decoration: none;
+}
+
+.endA:hover {
+    text-decoration: underline;
 }
